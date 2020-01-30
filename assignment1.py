@@ -59,7 +59,6 @@ def every_other(seq):
             newSeq += seq[i]
     return newSeq
 
-print(every_other("abcde"))
 
             
             
